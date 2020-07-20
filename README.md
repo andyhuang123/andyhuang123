@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[我的博客](http://www.seedblog.cn "悬停显示")
+[我的博客](http://www.seedblog.cn "php漫游指南")
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andyhuang123)](https://github.com/anuraghazra/github-readme-stats)
 
  
